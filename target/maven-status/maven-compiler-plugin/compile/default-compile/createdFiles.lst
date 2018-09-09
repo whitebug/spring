@@ -1,0 +1,11 @@
+com\whitebug\sweater\config\MvcConfig.class
+com\whitebug\sweater\domain\Role.class
+com\whitebug\sweater\domain\User.class
+com\whitebug\sweater\repos\MessageRepo.class
+com\whitebug\sweater\config\WebSecurityConfig.class
+com\whitebug\sweater\controller\RegistrationController.class
+com\whitebug\sweater\service\UserService.class
+com\whitebug\sweater\controller\MainController.class
+com\whitebug\sweater\Application.class
+com\whitebug\sweater\domain\Message.class
+com\whitebug\sweater\repos\UserRepo.class
